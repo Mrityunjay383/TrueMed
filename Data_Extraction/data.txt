@@ -1,0 +1,1088 @@
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">1</td>
+      <td valign="top" class="mosttext">Aminophylline : 225 mg</td>
+      <td height="20" valign="top" class="mosttext">Tablet </td>
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">5.09</td>
+      <td height="20" valign="top" class="mosttext">
+	  <a href="#" onClick="MM_openBrWindow('searching_list_brands_npp.php?qty=959@225 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">2</td>
+      <td valign="top" class="mosttext">Vit E : 100 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Capsule </td>
+      <td height="20" valign="top" class="mosttext">10 Capsule</td>
+      <td height="20" valign="top" class="mosttext">5.34</td>
+      <td height="20" valign="top" class="mosttext">
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=131,259,315,666,944,1004,2955&qty=131@100 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">3</td>
+      <td valign="top" class="mosttext">Vit E : 200 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Capsule </td>
+
+      <td height="20" valign="top" class="mosttext">10 Capsule</td>
+      <td height="20" valign="top" class="mosttext">8.88</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=131,259,315,666,944,1004,2955&qty=131@200 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">4</td>
+      <td valign="top" class="mosttext">Vit E : 268 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Capsule </td>
+
+      <td height="20" valign="top" class="mosttext">10 Capsule</td>
+      <td height="20" valign="top" class="mosttext">12.82</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=131,259,315,666,944,1004,2955&qty=131@268 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">5</td>
+      <td valign="top" class="mosttext">Vit E : 134 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Capsule </td>
+
+      <td height="20" valign="top" class="mosttext">10 Capsule</td>
+      <td height="20" valign="top" class="mosttext">7.70</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=131,259,315,666,944,1004,2955&qty=131@134 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">6</td>
+      <td valign="top" class="mosttext">Vit E : 400 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Capsule </td>
+
+      <td height="20" valign="top" class="mosttext">10 Capsule</td>
+      <td height="20" valign="top" class="mosttext">15.25</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=131,259,315,666,944,1004,2955&qty=131@400 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">7</td>
+      <td valign="top" class="mosttext">Vit E : 600 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Capsule </td>
+
+      <td height="20" valign="top" class="mosttext">10 Capsule</td>
+      <td height="20" valign="top" class="mosttext">21.80</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=131,259,315,666,944,1004,2955&qty=131@600 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">8</td>
+      <td valign="top" class="mosttext">Vit C : 100 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Drop </td>
+
+      <td height="20" valign="top" class="mosttext">30 ml</td>
+      <td height="20" valign="top" class="mosttext">11.65</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=130,195,823,841,1035&qty=130@100 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">9</td>
+      <td valign="top" class="mosttext">Analgin : 500 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Injection </td>
+
+      <td height="20" valign="top" class="mosttext">2 ml</td>
+      <td height="20" valign="top" class="mosttext">4.54</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=660,2406&qty=660@500 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">10</td>
+      <td valign="top" class="mosttext">Aminophylline : 100 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">0.93</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+
+
+	  <a href="#" onClick="MM_openBrWindow('searching_list_brands_npp.php?qty=959@100 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">11</td>
+      <td valign="top" class="mosttext">Vit C : 500 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Injection </td>
+
+      <td height="20" valign="top" class="mosttext">5 ml</td>
+      <td height="20" valign="top" class="mosttext">2.71</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=130,195,823,841,1035&qty=130@500 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">12</td>
+      <td valign="top" class="mosttext">Vit C : 100 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Injection </td>
+
+      <td height="20" valign="top" class="mosttext">2 ml</td>
+      <td height="20" valign="top" class="mosttext">1.73</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=130,195,823,841,1035&qty=130@100 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">13</td>
+      <td valign="top" class="mosttext">Amodiaquine : 200 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">4.62</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+
+
+	  <a href="#" onClick="MM_openBrWindow('searching_list_brands_npp.php?qty=2240@200 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">14</td>
+      <td valign="top" class="mosttext">Analgin : 500 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">8.27</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=660,2406&qty=660@500 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">15</td>
+      <td valign="top" class="mosttext">Analgin : 500 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Injection </td>
+
+      <td height="20" valign="top" class="mosttext">30 ml</td>
+      <td height="20" valign="top" class="mosttext">29.44</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=660,2406&qty=660@500 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">16</td>
+      <td valign="top" class="mosttext">Aspirin : 50 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">1.1</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=269,783&qty=269@50 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">17</td>
+      <td valign="top" class="mosttext">Aspirin : 75 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">1.22</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=269,783&qty=269@75 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">18</td>
+      <td valign="top" class="mosttext">Aspirin : 80 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">1.36</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=269,783&qty=269@80 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">19</td>
+      <td valign="top" class="mosttext">Aspirin : 100 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">1.28</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=269,783&qty=269@100 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">20</td>
+      <td valign="top" class="mosttext">Aspirin : 150 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">1.72</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=269,783&qty=269@150 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">21</td>
+      <td valign="top" class="mosttext">Aspirin : 162.5 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">14 Tablet</td>
+      <td height="20" valign="top" class="mosttext">2.2</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=269,783&qty=269@162.5 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">22</td>
+      <td valign="top" class="mosttext">Aspirin : 500 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">30 Tablet</td>
+      <td height="20" valign="top" class="mosttext">8.53</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=269,783&qty=269@500 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">23</td>
+      <td valign="top" class="mosttext">Aspirin : 60 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">14 Tablet</td>
+      <td height="20" valign="top" class="mosttext">2.44</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=269,783&qty=269@60 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">24</td>
+      <td valign="top" class="mosttext">Aspirin : 325 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">14 Tablet</td>
+      <td height="20" valign="top" class="mosttext">8.66</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=269,783&qty=269@325 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">25</td>
+      <td valign="top" class="mosttext">Bacampicillin : 200 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">2 Tablet</td>
+      <td height="20" valign="top" class="mosttext">5.82</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+
+
+	  <a href="#" onClick="MM_openBrWindow('searching_list_brands_npp.php?qty=1728@200 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">26</td>
+      <td valign="top" class="mosttext">Bacampicillin : 400 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">2 Tablet</td>
+      <td height="20" valign="top" class="mosttext">10.62</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+
+
+	  <a href="#" onClick="MM_openBrWindow('searching_list_brands_npp.php?qty=1728@400 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">27</td>
+      <td valign="top" class="mosttext">Vit C : 500 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">6.36</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=130,195,823,841,1035&qty=130@500 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">28</td>
+      <td valign="top" class="mosttext">Betamethasone Sodium Phosphate : 0.5 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">3.44</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=25,67,121,418,531,598,771,1023,1295,1315,1319,1577,2127,2973&qty=531@0.5 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">29</td>
+      <td valign="top" class="mosttext">Vit C : 200 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">100 Tablet</td>
+      <td height="20" valign="top" class="mosttext">26.98</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=130,195,823,841,1035&qty=130@200 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">30</td>
+      <td valign="top" class="mosttext">Vit C : 100 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">100 Tablet</td>
+      <td height="20" valign="top" class="mosttext">17.62</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=130,195,823,841,1035&qty=130@100 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">31</td>
+      <td valign="top" class="mosttext">Vit C : 50 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">100 Tablet</td>
+      <td height="20" valign="top" class="mosttext">11.74</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=130,195,823,841,1035&qty=130@50 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">32</td>
+      <td valign="top" class="mosttext">Betamethasone : 1 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">6.3</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=25,67,121,418,531,598,771,1023,1295,1315,1319,1577,2127,2973&qty=25@1 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">33</td>
+      <td valign="top" class="mosttext">Riboflavin : 10 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">1.50</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=59,200&qty=200@10 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">34</td>
+      <td valign="top" class="mosttext">Betamethasone Sodium Phosphate : 4 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Injection </td>
+
+      <td height="20" valign="top" class="mosttext">1 ml</td>
+      <td height="20" valign="top" class="mosttext">4.4</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=25,67,121,418,531,598,771,1023,1295,1315,1319,1577,2127,2973&qty=531@4 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">35</td>
+      <td valign="top" class="mosttext">Vit B1 : 75 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">2.98</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=57,201,2733&qty=57@75 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">36</td>
+      <td valign="top" class="mosttext">Betamethasone : 4 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Injection </td>
+
+      <td height="20" valign="top" class="mosttext">2 ml</td>
+      <td height="20" valign="top" class="mosttext">7.27</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=25,67,121,418,531,598,771,1023,1295,1315,1319,1577,2127,2973&qty=25@4 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">37</td>
+      <td valign="top" class="mosttext">Vit A : 5000 iu</td>
+      <td height="20" valign="top" class="mosttext">
+	  Injection </td>
+
+      <td height="20" valign="top" class="mosttext">2.5 ml</td>
+      <td height="20" valign="top" class="mosttext">3.88</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=129,257,2271,2883&qty=129@5000 iu&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">38</td>
+      <td valign="top" class="mosttext">Betamethasone : 0.1% </td>
+      <td height="20" valign="top" class="mosttext">
+	  Drop </td>
+
+      <td height="20" valign="top" class="mosttext">0.3 ml</td>
+      <td height="20" valign="top" class="mosttext">2.53</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=25,67,121,418,531,598,771,1023,1295,1315,1319,1577,2127,2973&qty=25@0.1% &gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">39</td>
+      <td valign="top" class="mosttext">Vit A : 100000 iu</td>
+      <td height="20" valign="top" class="mosttext">
+	  Injection </td>
+
+      <td height="20" valign="top" class="mosttext">2 ml</td>
+      <td height="20" valign="top" class="mosttext">3.02</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=129,257,2271,2883&qty=129@100000 iu&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">40</td>
+      <td valign="top" class="mosttext">Betamethasone : 0.5 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Drop </td>
+
+      <td height="20" valign="top" class="mosttext">10 ml</td>
+      <td height="20" valign="top" class="mosttext">9.28</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=25,67,121,418,531,598,771,1023,1295,1315,1319,1577,2127,2973&qty=25@0.5 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">41</td>
+      <td valign="top" class="mosttext">Vit A : 50000 iu</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">6.20</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=129,257,2271,2883&qty=129@50000 iu&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">42</td>
+      <td valign="top" class="mosttext">Vit A : 50000 iu</td>
+      <td height="20" valign="top" class="mosttext">
+	  Capsule </td>
+
+      <td height="20" valign="top" class="mosttext">10 Capsule</td>
+      <td height="20" valign="top" class="mosttext">5.96</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+      				<a href="#" onClick="MM_openBrWindow('searching_list_similar_brands.php?similarpid=129,257,2271,2883&qty=129@50000 iu&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">43</td>
+      <td valign="top" class="mosttext">Verapamil : 40 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">6.24</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+
+
+	  <a href="#" onClick="MM_openBrWindow('searching_list_brands_npp.php?qty=986@40 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">44</td>
+      <td valign="top" class="mosttext">Verapamil : 80 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">11.90</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+
+
+	  <a href="#" onClick="MM_openBrWindow('searching_list_brands_npp.php?qty=986@80 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">45</td>
+      <td valign="top" class="mosttext">Verapamil : 120 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">19.64</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+
+
+	  <a href="#" onClick="MM_openBrWindow('searching_list_brands_npp.php?qty=986@120 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">46</td>
+      <td valign="top" class="mosttext">Verapamil : 240  mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Tablet </td>
+
+      <td height="20" valign="top" class="mosttext">10 Tablet</td>
+      <td height="20" valign="top" class="mosttext">37.50</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+
+
+	  <a href="#" onClick="MM_openBrWindow('searching_list_brands_npp.php?qty=986@240  mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">47</td>
+      <td valign="top" class="mosttext">Verapamil : 2.5 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Injection </td>
+
+      <td height="20" valign="top" class="mosttext">2.5 ml</td>
+      <td height="20" valign="top" class="mosttext">2.26</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+
+
+	  <a href="#" onClick="MM_openBrWindow('searching_list_brands_npp.php?qty=986@2.5 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">48</td>
+      <td valign="top" class="mosttext">Tolnaftate : 10 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Ointment </td>
+
+      <td height="20" valign="top" class="mosttext">5 gm</td>
+      <td height="20" valign="top" class="mosttext">3.86</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+
+
+	  <a href="#" onClick="MM_openBrWindow('searching_list_brands_npp.php?qty=183@10 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">49</td>
+      <td valign="top" class="mosttext">Tolnaftate : 10 mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Ointment </td>
+
+      <td height="20" valign="top" class="mosttext">10 gm</td>
+      <td height="20" valign="top" class="mosttext">5.20</td>
+
+
+      <td height="20" valign="top" class="mosttext">
+
+
+
+
+	  <a href="#" onClick="MM_openBrWindow('searching_list_brands_npp.php?qty=183@10 mg&gcount=1','','scrollbars=yes,width=800,height=600')"><img src="images/brand_icon.GIF" border="0" /></a>
+
+      </td>
+
+
+
+    </tr>
+
+	 <tr class="row">
+      <td height="20" valign="top" class="mosttext">50</td>
+      <td valign="top" class="mosttext">Tolnaftate : 10  mg</td>
+      <td height="20" valign="top" class="mosttext">
+	  Ointment </td>
+
+      <td height="20" valign="top" class="mosttext">30 gm</td>
+      <td height="20" valign="top" class="mosttext">10.34</td>
+
+
+      <td height="20" valign="top" class="mosttext">
